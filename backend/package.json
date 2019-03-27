@@ -1,0 +1,17 @@
+{
+  "name": "wss_parrot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wss_parrot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ih": "^1.3.0"
+  },
+  "devDependencies": {
+    "ws": "^6.2.0"
+  }
+}
